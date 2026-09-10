@@ -1,0 +1,6 @@
+# Публичный репозиторий: в дереве только README, сборки живут в Releases.
+# Исходники BeanZen (Sources/, Tests/, Darwin/, Android/, Package.swift, docs/, plans/ и т.д.)
+# сюда попадать не должны - запрещено всё, разрешены только README и этот файл.
+*
+!.gitignore
+!README.md
